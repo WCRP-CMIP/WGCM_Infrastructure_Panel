@@ -83,7 +83,7 @@
  <ul>
 	 <li><div class='folder'>Final Versions</div> 
  <ul>
-	 <li><span class='bookmark'><a href='http://www.earthsystemcog.org/site_media/projects/wip/CMIP6_ESDOC_documentation.pdf'>CMIP6_ESDOC_documentation</a></span></li>
+	 <li><span class='bookmark'><a href='Papers/CMIP6_ESDOC_documentation.pdf'>CMIP6_ESDOC_documentation</a></span></li>
 	 <li><span class='bookmark'><a href='https://docs.google.com/document/d/1LNhw23tQotVomnkWQqfCPrBWspZi0bpdv2a1IegvHKI/edit'>CMIP6 Errata System</a></span></li>
  <li><span class='bookmark'><a href='https://goo.gl/v1drZl'>CMIP6_global_attributes_filenames_CVs</a></span></li>
  <li><span class='bookmark'><a href='https://docs.google.com/document/d/1oFie37HV0cCpKrcOEVc_ATTAoeklm2zc3ZEfzCdWC4M/edit#heading=h.ssqo7vyqs8qz'>CMIP6_ESGF_Publication_Requirements</a></span></li>
