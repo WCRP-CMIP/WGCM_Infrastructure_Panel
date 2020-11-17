@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+# The WGCM (Working Group on Climate Models) Infrastructure Panel
 
-You can use the [editor on GitHub](https://github.com/WCRP-CMIP/WGCM_Infrastructure_Panel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WCRP-CMIP/WGCM_Infrastructure_Panel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	The WIP serves as a counterpart to the CMIP Modeling Panel and enables the modeling groups, through the WGCM, to maintain some control over the technical requirements imposed by the increasingly burdensome MIPs. The membership also include representation of those responsible for the standards and conventions and the IT and software infrastructure underpinning the MIPS. The mission of the panel is to promote a robust and sustainable global data infrastructure in support of the scientific mission of the WGCM. Drawing on experts intimately familiar with the scientific goals of the WGCM and aware of the promises and limitations of infrastructural technologies, the WIP formulates achievable goals for global data infrastructure, ensure coordination of the various groups building components of the system, and advise the relevant institutions on the requirements and commitments needed to maintain its long term vitality.
