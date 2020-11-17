@@ -4,7 +4,7 @@
     <div id="cog_post_body">
         <ul>
 	<li>
-		<a href="Papers/ts/wip/CDNOT_Terms_of_Reference.pdf">CDNOT Terms of Reference</a></li>
+		<a href="Papers/CDNOT_Terms_of_Reference.pdf">CDNOT Terms of Reference</a></li>
 	<li>
 		<a href="Papers/CMIP6_PID_Implementation_Plan.pdf">CMIP6 Persistent Identifiers Implementation Plan</a></li>
 	<li>
