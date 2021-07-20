@@ -11,24 +11,6 @@ The WIP serves as a counterpart to the CMIP Modeling Panel and enables the model
 <br /><br />The WIP established a CMIP Data Node Operations Team (CDNOT) to interface with CMIP6 ESGF node managers.  The team is currently composed of 70 persons and chaired by Ruth Petrie (STFC, UK), who took over from Sébastien Denvil (IPSL, France) in 2019. As called for in the <a href="Papers/CDNOT_Terms_of_Reference.pdf" rel="nofollow">CDNOT Terms of Reference </a>, this team is  coordinating CMIP6 data node operations and data management practices to meet WIP requirements. The CDNOT has primary responsibility for creating and maintaining procedures for publishing CMIP6 data and is generally facilitating communication between the WIP and the data node managers so that infrastructure and operational issues can be addressed effectively.  <br /><br />Further information about CMIP6 can be obtained from:<br /><br />PCMDI-hosted CMIP6 pages (<a href="https://pcmdi.llnl.gov/CMIP6/" rel="nofollow">https://pcmdi.llnl.gov/CMIP6/</a>)<br />WCRP CMIP6 website (<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6" rel="nofollow">https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6</a>)<br />
 </div>
 
-## WIP Membership (as of August 2018): 
+## WIP Membership  
 
-- V. Balaji, co-chair (Princeton/GFDL, USA)
-- Karl Taylor, co-chair (PCMDI/LLNL, USA)
-- Yuqi Bai (Tsinghua University, China)
-- Luca Cinquini (NASA, USA)
-- Cecilia Deluca (NOAA, USA)
-- Sébastien Denvil (IPSL, France)
-- Paul Durack (PCMDI/LLNL, USA)
-- Francesca Guglielmo (IPSL, France)
-- Eric Guilyardi (IPSL, France)
-- Martin Juckes (STFC, UK)
-- Slava Kharin (CCCma, Canada)
-- Michael Lautenschlager (DKRZ, Germany)
-- Bryan Lawrence (NCAS, UK)
-- Matthew Mizielinski (MetOffice, UK)
-- Dean Williams (LLNL, USA)
-
-## Former Members
-
-Mark Elkington (MetOffice, UK, 2013-2018)
+The membership list for the WIP is maintained on the <a href="https://www.wcrp-climate.org/wgcm-cmip/wip">WGCM Climate pages<\a>.
