@@ -13,4 +13,4 @@ The WIP serves as a counterpart to the CMIP Modeling Panel and enables the model
 
 ## WIP Membership  
 
-The membership list for the WIP is maintained on the <a href="https://www.wcrp-climate.org/wgcm-cmip/wip">WGCM Climate pages<\a>.
+The membership list for the WIP is maintained on the <a href="https://www.wcrp-climate.org/wgcm-cmip/wip">WGCM Climate pages</a>.
