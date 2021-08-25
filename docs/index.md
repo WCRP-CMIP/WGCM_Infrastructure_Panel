@@ -24,7 +24,6 @@ Further information about CMIP6 can be obtained from:
  * PCMDI-hosted CMIP6 pages (<a href="https://pcmdi.llnl.gov/CMIP6/" rel="nofollow">https://pcmdi.llnl.gov/CMIP6/</a>)
  * WCRP CMIP6 website (<a href="https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6" rel="nofollow">https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6</a>)
 
-
 ## WIP Membership  
 
 The membership list for the WIP is maintained on the <a href="https://www.wcrp-climate.org/wgcm-cmip/wip">WGCM Climate pages</a>.
