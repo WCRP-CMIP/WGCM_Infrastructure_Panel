@@ -1,5 +1,7 @@
+
 <h1 class="title">WIP Resources</h1> 
-         
+
+*Note that this page is not linked*         
 
 <div id='folder_tree' class='yui-skin-sam'>
 <ul><li class='expanded'><div class='folder'>Bookmarks</div> 
@@ -101,6 +103,6 @@
 	 <li><span class='bookmark'><a href='https://docs.google.com/spreadsheets/d/1TmDR0G2GVapZERXsdXc5Sqo3O0fqahJe4VP52HHEEM0/edit#gid=212234681'>papers_and_reviewers_list</a></span></li>
 	 <li><span class='bookmark'><a href='https://docs.google.com/spreadsheets/d/1ihUI7WbJrShTDUER862LBF2_4XQmxZiZMm_n5y1d-cs/edit#gid=0'>CMIP6_Reference_Vocabularies:lists</a></span></li>
 	 <li><span class='bookmark'><a href='https://docs.google.com/document/d/1CzTUoX4H2S0XbQUM3_9yKvJ2la7qUExFV7ibGzThmhA/edit'>CMIP6 Data Reference Vocabularies</a></span></li>
-	 <li><span class='bookmark'><a href='https://docs.google.com/document/d/1DQcoFNt223PDATAbMULqrIjVhfbJ9f5GDdM0mTZ7bmM/edit#heading=h.ajriftj7lx0q'>Data Request: Structure and Process</a></span></li></ul></li></ul></li></ul></li></ul></div></div>
+	 <li><span class='bookmark'><a href='https://docs.google.com/document/d/1DQcoFNt223PDATAbMULqrIjVhfbJ9f5GDdM0mTZ7bmM/edit#heading=h.ajriftj7lx0q'>Data Request: Structure and Process</a></span></li></ul></li></ul></li></ul></li></ul></div>
     
 
