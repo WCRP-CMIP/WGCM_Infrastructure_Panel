@@ -1,0 +1,13 @@
+# How to develop these pages using Jekyll
+
+1. Set up conda enviroment using `environment.yml`. Note that this environment may have more than is necessary -- it is the environment I am working with rather than a minimal install.
+2. Install jekyll
+   `gem install bundler jekyll`
+3. install the github pages themes/plugins
+   `gem install github-pages`
+4. launch the jekyll web server
+   `bundle exec jekyll server`
+
+Due to our set up you'll need to navigate to the web server (usually https://localhost:4000) and then click on the docs link.
+
+Matt Miz 19th August 2021

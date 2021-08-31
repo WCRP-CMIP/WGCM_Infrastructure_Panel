@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: WGCM Infrastructure Panel
+logo: https://www.wcrp-climate.org/images/community-resources/WCRP_logo_original-150.png
+description: The WGCM Infrastructure Panel (WIP) coordinates the infrastructure supporting CMIP

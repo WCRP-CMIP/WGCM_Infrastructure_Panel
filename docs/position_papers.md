@@ -1,3 +1,8 @@
+---
+title: Position papers
+rank: 0
+---
+
 <h1 class="title">WIP - CMIP6 position papers</h1>
 
 <div id="cog_post_body">
