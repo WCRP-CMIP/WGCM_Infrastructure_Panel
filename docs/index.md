@@ -10,7 +10,7 @@ The WIP serves as a counterpart to the CMIP Modeling Panel and enables the model
 In a <a href="Papers/standards-governance.pdf" rel="nofollow">2013 letter</a> to the WGCM, a group of concerned individuals articulated the case for establishing an Infrastructure panel to serve the WGCM and, more broadly, the WCRP community. The WGCM agreed that this would be helpful and approved the WCRP WGCM Infrastructure Panel&apos;s  <a href="Papers/WIP_Terms_of_Reference.pdf" rel="nofollow">Terms of Reference</a>.
 
 Currently, the WIP is deeply involved in Phase 6 of the WCRP Coupled Model Intercomparison Project (CMIP6).
-It has written several [position papers]({% link docs/position_papers.md %}) describing infrastructure requirements and defining technical specifications for CMIP6.
+It has written several [position papers]({% link position_papers.md %}) describing infrastructure requirements and defining technical specifications for CMIP6.
 It also directly oversees the <a href="https://github.com/cmip6dr/Data_Request_Home" rel="nofollow">CMIP6 Data Request</a>, which specifies the variables that should be archived from each of the over 300 CMIP6 experiments (and defines the metadata associated with each variable).
 Panel member Martin Juckes (STFC, UK) has primary responsibility for the data request. 
 A paper entitled "Requirements for a global data infrastructure in support of CMIP6" (<a href="https://gmd.copernicus.org/articles/11/3659/2018/gmd-11-3659-2018.html" rel="nofollow">Balaji et al. 2018</a>) summarizes the WIP&apos;s activities, findings and recommendations, and has been accepted for publication in the GMD special issue on CMIP6.
