@@ -54,7 +54,7 @@ This includes both quantities of general interest needed from most of the CMIP6-
 The complexity of the data request has increased from the early days of model intercomparisons, as has the data volume. 
 In contrast with CMIP5, CMIP6 requires distinct sets of highly tailored variables to be saved from each of the more than 300 experiments. 
 
-For full details see the [CMIP6 data request page]({% link CMIP6/data_request.md %})
+For full details see the [CMIP6 data request page]({{ site.baseurl }}{% link CMIP6/data_request.md %})
 
 ## CMOR
 
