@@ -40,10 +40,13 @@
         {% assign sorted = site.pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
+            {% if item.dir == "/" %}
+             
             <li>
               <a href="{{ site.url }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
+            {%endif %}
           {% endif %}
         {% endfor %}
       </header>
