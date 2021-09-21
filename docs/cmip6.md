@@ -66,21 +66,10 @@ This places new demands on the data request information base and leads to a new 
 * [CMIP6_OMIP_physics_standard_output](https://docs.google.com/spreadsheets/d/1M7KeHm1ZaSKClgf5O0L1-LZgWJJqaVlVTQ44jnZiT4A)
 * [CMIP6_OMIP_chemistry_standard_output](https://docs.google.com/spreadsheets/d/1SfxHKASSwLbPM6xBDjZ6Y8oIxx9APLOlCG9G0lzIu7o)
 
-## CMOR & CMOR Prepare
+## CMOR
 
-The Climate Model Output Rewriter (CMOR) is a library of tools for writing standards compliant data for publication to projects such as CMIP6. It provides interfaces in C, Fortran 90 and Python.
-
- * [CMOR 3 home](https://cmor.llnl.gov/)
- * [CMOR 3 Github](https://github.com/PCMDI/CMOR)
-
-CMOR PrePARE is a command line tool that can be used to validate a set of prepared files against a set of MIP tables/CVs and should ideally be used as part of ESGF publication. See [here](https://cmor.llnl.gov/mydoc_cmip6_validator/) for further information.
-
-## CMIP6 variable specifications : MIP Tables
-
-CMOR uses a set of JSON files including an aggregation of the Controlled Vocabularies and "MIP tables", which define the structure and metadata for each variable. 
-MIP tables are produced from each version of the CMIP6 data request and the Controlled Vocabularies file at the HEAD of the repository master is updated each time a change is made to the CMIP6 Controlled Vocabularies.
-
- * [CMOR 3 CMIP6 MIP tables & CVs](https://github.com/PCMDI/cmip6-cmor-tables)
+The Climate Model Output Rewriter (CMOR) is a library of tools for writing standards compliant data for publication to projects such as CMIP6. It provides interfaces in C, Fortran 90 and Python. 
+For information on CMOR and associated MIP tables see the [CMOR and MIP tables]({% link cmor_and_mip_tables.md %}) page.
 
 ## ES-Doc
 
