@@ -14,7 +14,10 @@
   <body>
     <div class="wrapper">
       <header>
+        <!-- Bug in how github renders the absolute url
         <h1><a href="{{ "/" | absolute_url }}" style="font-weight: bold">{{ site.title | default: site.github.repository_name }}</a></h1>
+        --!>
+        <h1><a href="https://wcrp-cmip.github.io/WGCM_Infrastructure_Panel/" style="font-weight: bold">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
