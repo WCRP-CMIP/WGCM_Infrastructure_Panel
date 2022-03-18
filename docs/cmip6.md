@@ -79,11 +79,7 @@ ES-Doc provides a number of services to CMIP6 participants and data users;
 
 ## Citation services
 
-To be updated
-
-[//]: # From the ESGF search results the citation information for a particular dataset provides a set of information along with the DOI and a link to the citation search landing page. 
-[//]: # For example, a [search](http://esgf-node.llnl.gov/search/cmip6/?mip_era=CMIP6&activity_id=CMIP&institution_id=MOHC&source_id=UKESM1-0-LL&experiment_id=amip) for UKESM1-0-LL amip simulation data will return a DOI of [doi:10.22033/ESGF/CMIP6.5857](https://doi.org/10.22033/ESGF/CMIP6.5857) which resolves to the corresponding page in the citation service. 
-[//]: # From the `Related data` section of that page, selecting `MOHC UKESM1.0-LL model output prepared for CMIP6 CMIP` and clicking on `Show` leads to the citation page for [all DECK (CMIP) MOHC UKESM1-0-LL data with DOI doi:10.22033/ESGF/CMIP6.5857](https://doi.org/10.22033/ESGF/CMIP6.5857).
+DataCite DOIs are registered on two data collection granularities: data contributed by a modeling group to an experiment and data contributed by a modeling group to a MIP. The citation services enable data users to credit data providers by citing the data in their studies. The service provides a number of services for data providers and data users, including the accessibility of data citation information in the ESGF portals and the standalone [Citation Search](http://bit.ly/CMIP6_Citation_Search). Detailed information is available at: http://cmip6cite.wdc-climate.de .
 
 ## Persistent Identifiers
 
