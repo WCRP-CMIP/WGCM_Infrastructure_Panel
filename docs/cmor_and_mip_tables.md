@@ -23,7 +23,8 @@ MIP tables are produced from each version of the CMIP6 data request and the Cont
  * [CMIP6 MIP tables & CVs](https://github.com/PCMDI/cmip6-cmor-tables)
  * [Input4MIPs](https://github.com/PCMDI/input4MIPs-cmor-tables)
  * [obs4MIPs](https://github.com/PCMDI/obs4MIPs-cmor-tables)
- * [PCMDIobs ](https://github.com/PCMDI/PCMDIobs-cmor-tables)
+ * [PCMDIobs](https://github.com/PCMDI/PCMDIobs-cmor-tables)
+ * [PalMod](https://gitlab.dkrz.de/dicad-pp/palmod2_dast)
 
 ## CMOR 2/1 MIP Tables
 
