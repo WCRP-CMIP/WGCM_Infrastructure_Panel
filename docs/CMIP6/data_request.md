@@ -15,9 +15,11 @@ This places new demands on the data request information base and leads to a new 
 * [Data Request web interface front page](http://clipc-services.ceda.ac.uk/dreq/index.html)
   * [Search for variables](http://clipc-services.ceda.ac.uk/dreq/mipVars.html) : Search for a variable and you will be presented with links to a `MIP Variable` page, e.g. for `tas`, which will then provide links on to specific instances of this variable in various MIP tables.
   * [Search for experiments](http://clipc-services.ceda.ac.uk/dreq/experiments.html)
-* **UPDATED**: [Data Request source repository](https://github.com/cmip6dr/data_request_snapshots) 
-* **Link to be updated:** [Input information for CMIP6](http://proj.badc.rl.ac.uk/exarch/browser/CMIP6dreqbuild/trunk/inputs)
+* [Data Request source repository](https://github.com/cmip6dr/data_request_snapshots) 
+* Input information for CMIP6, previously available from [here](http://proj.badc.rl.ac.uk/exarch/browser/CMIP6dreqbuild/trunk/inputs) is available on [request](https://github.com/WCRP-CMIP/WGCM_Infrastructure_Panel/issues)
+
 * Pressure level set information can be found in table 4 of the [GMD Paper](https://gmd.copernicus.org/articles/13/201/2020/#section4) or within the `CMIP6_coordinate.json` file within the [CMIP6 MIP tables](https://github.com/PCMDI/cmip6-cmor-tables/blob/master/Tables/CMIP6_coordinate.json)
+* [Time and Masked Area Averaging]({{ site.baseurl }}{% link CMIP6/time_and_area_averaging.md %})
 
 ## MIP Specific documents
 
