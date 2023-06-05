@@ -59,7 +59,7 @@ For full details see the [CMIP6 data request page]({{ site.baseurl }}{% link CMI
 ## CMOR
 
 The Climate Model Output Rewriter (CMOR) is a library of tools for writing standards compliant data for publication to projects such as CMIP6. It provides interfaces in C, Fortran 90 and Python. 
-For information on CMOR and associated MIP tables see the [CMOR and MIP tables]({% link cmor_and_mip_tables.md %}) page.
+For information on CMOR and associated MIP tables see the [CMOR and MIP tables]({{ site.baseurl }}{% link cmor_and_mip_tables.md %}) page.
 
 ## ES-Doc
 
