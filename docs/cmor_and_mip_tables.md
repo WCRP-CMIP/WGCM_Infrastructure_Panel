@@ -15,6 +15,12 @@ The Climate Model Output Rewriter (CMOR) is a library of tools for writing stand
 
 CMOR PrePARE is a command line tool that can be used to validate a set of prepared files against a set of MIP tables/CVs and should ideally be used as part of ESGF publication. See [here](https://cmor.llnl.gov/mydoc_cmip6_validator/) for further information.
 
+## CMORization tools
+
+Higher-level Python packages that simplify the use of CMOR for common Earth system model output workflows:
+
+ * [pycmor](https://github.com/esm-tools/pycmor) — declarative, plugin-based pipeline for converting ESM output to CMOR-compliant NetCDF for CMIP6 and CMIP7. Supports FESOM2, OpenIFS, PISM and other models; HPC-native via dask/SLURM. Install: `pip install py-cmor`. Developed at the Alfred Wegener Institute (AWI).
+
 ## MIP Tables for CMOR3
 
 CMOR3 uses a set of JSON files including an aggregation of the Controlled Vocabularies and "MIP tables", which define the structure and metadata for each variable. 
